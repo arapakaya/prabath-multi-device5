@@ -1,13 +1,13 @@
 {
-  "name": "PRABATH-MD (3.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://i.ibb.co/YnKwtFV/50d27b64cf679379.jpg",
+  "name": "Ｆｉｌｍ Ｆｅｅｄ 🎞️ 🎥",
+  "description": "Ｆｉｌｍ Ｆｅｅｄ 🎞️ 🎥 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://ibb.co/93HHH1S3",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "93779776137",
       "required": true
     },  
 
